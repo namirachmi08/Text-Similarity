@@ -6,11 +6,9 @@ Program Studi S1 Sains Data
 
 Universitas Negeri Surabaya
 
-Nama Anggota:
+Nama: Namira Rachmi Andini
+NIM: 25031554153
 
-Namira Rachmi Andini (25031554153)
-
-Syahira Nanda Raihanna (25031554199)
 ## Deskripsi
 
 Repository ini berisi implementasi **Text Similarity** untuk mengukur tingkat kemiripan antara sebuah query dengan dokumen teks yang terdapat pada dataset film.
