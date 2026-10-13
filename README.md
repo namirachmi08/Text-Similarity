@@ -7,6 +7,7 @@ Program Studi S1 Sains Data
 Universitas Negeri Surabaya
 
 Nama: Namira Rachmi Andini
+
 NIM: 25031554153
 
 ## Deskripsi
